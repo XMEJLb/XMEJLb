@@ -1,16 +1,135 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**XMEJLb/XMEJLb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌴 WELCOME TO MIAMI
+XMEJLb
 
-Here are some ideas to get you started:
+FULLSTACK DEVELOPER
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building things. Breaking things. Building them better.
+
+<br>
+
+JAVASCRIPT · TYPESCRIPT · REACT · NEXT.JS · GO
+
+</div>
+
+🔪 ABOUT ME
+> booting developer.exe...
+
+Name       : XMEJLb
+Role       : Fullstack Developer
+Focus      : Web Development / Backend
+Currently  : Learning Go & Backend Engineering
+
+Status     : ████████████████░░░░  80%
+
+> ready.
+
+I'm a developer focused on building web applications and turning ideas into real products.
+
+I started with frontend development and gradually moved deeper into backend development, databases and system architecture.
+
+Currently exploring Go, backend engineering and building my own products.
+
+I like taking an idea from:
+
+💡 idea → 🎨 interface → ⚙️ backend → 🚀 product
+
+🩸 THE ARSENAL
+FRONTEND
+
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/> </p>
+
+BACKEND
+
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> </p>
+
+TOOLS
+
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"/> </p>
+
+💻 CURRENTLY WORKING ON
+┌──────────────────────────────────────────────┐
+│                                              │
+│   LEARNING                                   │
+│   ├── Go                                     │
+│   ├── Backend architecture                   │
+│   ├── PostgreSQL                             │
+│   └── API design                             │
+│                                              │
+│   BUILDING                                   │
+│   ├── Web applications                       │
+│   ├── Pet projects                           │
+│   └── My own products                        │
+│                                              │
+│   EXPLORING                                  │
+│   ├── Fullstack development                  │
+│   └── System design                           │
+│                                              │
+└──────────────────────────────────────────────┘
+📼 THE COLLECTION
+
+Things I enjoy when I'm not writing code:
+
+🎱 Billiards
+
+🎲 Board games
+
+🧩 Speedcubing
+
+♟️ Chess
+
+🎮 Games
+
+And yes...
+
+🔫 HOTLINE MIAMI
+
+Do you like hurting other people?
+
+📊 GITHUB STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=XMEJLb&show_icons=true&hide_border=true&theme=radical&bg_color=00000000&title_color=ff2aad&icon_color=00e5ff&text_color=ffffff" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XMEJLb&layout=compact&hide_border=true&theme=radical&bg_color=00000000&title_color=ff2aad&text_color=ffffff" height="180"/>
+
+</div>
+
+🔥 COMBO
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=XMEJLb&theme=radical&hide_border=true&background=00000000&ring=ff2aad&fire=ff2aad&currStreakLabel=00e5ff"/>
+
+</div>
+
+🎯 OBJECTIVE
+[████████████████████░░░░]
+
+Become a stronger engineer.
+
+Learn.
+Build.
+Break.
+Understand.
+Repeat.
+📡 CONTACT
+
+<div align="center">
+
+<a href="https://github.com/XMEJLb"> <img src="https://img.shields.io/badge/GitHub-XMEJLb-181717?style=for-the-badge&logo=github"/> </a>
+
+<!-- ADD YOUR LINKS HERE -->
+
+</div>
+
+<div align="center">
+
+NO MORE TALKING.
+GET THE CODE.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=100&section=footer"/>
+
+</div>
