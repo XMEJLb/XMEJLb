@@ -91,13 +91,6 @@ And yes...
 
 Do you like hurting other people?
 
-## 📊 GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=XMEJLb&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-
-</div>
 🎯 OBJECTIVE
 [████████████████████░░░░]
 
