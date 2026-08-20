@@ -48,7 +48,9 @@ TOOLS
 
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"/> </p>
 
-💻 CURRENTLY WORKING ON
+## 💻 CURRENTLY WORKING ON
+
+```text
 ┌──────────────────────────────────────────────┐
 │                                              │
 │   LEARNING                                   │
@@ -64,7 +66,7 @@ TOOLS
 │                                              │
 │   EXPLORING                                  │
 │   ├── Fullstack development                  │
-│   └── System design                           │
+│   └── System design                          │
 │                                              │
 └──────────────────────────────────────────────┘
 📼 THE COLLECTION
