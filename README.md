@@ -50,6 +50,8 @@ TOOLS
 
 ## 💻 CURRENTLY WORKING ON
 
+```text
+
 ┌──────────────────────────────────────────────┐
 │                                              │
 │   LEARNING                                   │
@@ -68,6 +70,7 @@ TOOLS
 │   └── System design                          │
 │                                              │
 └──────────────────────────────────────────────┘
+```
 📼 THE COLLECTION
 
 Things I enjoy when I'm not writing code:
