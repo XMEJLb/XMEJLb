@@ -91,24 +91,13 @@ And yes...
 
 Do you like hurting other people?
 
-📊 GITHUB STATS
+## 📊 GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=XMEJLb&show_icons=true&hide_border=true&theme=radical&bg_color=00000000&title_color=ff2aad&icon_color=00e5ff&text_color=ffffff" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XMEJLb&layout=compact&hide_border=true&theme=radical&bg_color=00000000&title_color=ff2aad&text_color=ffffff" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=XMEJLb&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 
 </div>
-
-🔥 COMBO
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=XMEJLb&theme=radical&hide_border=true&background=00000000&ring=ff2aad&fire=ff2aad&currStreakLabel=00e5ff"/>
-
-</div>
-
 🎯 OBJECTIVE
 [████████████████████░░░░]
 
