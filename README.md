@@ -50,7 +50,6 @@ TOOLS
 
 ## 💻 CURRENTLY WORKING ON
 
-```text
 ┌──────────────────────────────────────────────┐
 │                                              │
 │   LEARNING                                   │
